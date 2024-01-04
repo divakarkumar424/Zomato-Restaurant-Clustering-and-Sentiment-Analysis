@@ -12,3 +12,18 @@ To ensure Zomato's success the company needs to analyze its datasets and make ap
 
 
 ![01-INTRO2](https://user-images.githubusercontent.com/32620288/141148382-f9456b7f-9607-4bf2-99c2-9b1cc3a7a034.png)
+## Overview:
+Technology and tools wise this project covers,
+
+1. Python
+2. Numpy and Pandas for data cleaning
+3. Data visualization
+4. Sklearn for model building
+5. Google Colab Notebook
+-----------------------------------------------------------------------------------------------------------------
+### Technologies Used:
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://user-images.githubusercontent.com/32620288/139657460-40ef4562-76bd-43f5-bbca-47b6bd29863e.png" width=100>](https://numpy.org)    [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/450px-Pandas_logo.svg.png" width=150>](https://pandas.pydata.org)  [<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=150>](https://seaborn.pydata.org) [<img target="_blank" src="https://github.com/divakarkumar424/Boston-House-Prices-Prediction/assets/32620288/92ead969-9327-45c1-9d89-2ae710e5d4db" width=170>](https://matplotlib.org)   [<img target="_blank" src="https://user-images.githubusercontent.com/32620288/137518674-f36c5ad3-3d64-4c7a-a07c-53f247750394.png" width=170>](https://colab.research.google.com/)
+[<img target="_blank" src="https://github.com/divakarkumar424/Bike-Sharing-Demand-Prediction/assets/32620288/310ddc5e-9f1a-4c1b-b6f6-d65ca6b6aec9" width=170>](https://scikit-learn.org/stable/index.html)
