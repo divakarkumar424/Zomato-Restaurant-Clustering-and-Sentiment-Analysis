@@ -5,9 +5,7 @@ Indian cuisine consists of a variety of regional and traditional cuisines native
 In this notebook, I will try analyzing the Business Problem of Zomato and create a practical recommendation system for users.
 
 The problem statement here has two datasets for us to work on:
-
 * Zomato Restaurant Names and Metadata
-
 * Zomato Restaurant Reviews
 
 To ensure Zomato's success the company needs to analyze its datasets and make appropriate strategic decisions. The problem statement here asks us to cluster the restaurants to help customers find the best restaurants in their city and according to their taste understand the fields they are lagging in. This will help Zomato in building a good recommendation system for their customers. Do a cost-benefit analysis using the cuisines and costs of the restaurants. To understand fields that need to be worked upon, it is important to do sentiment analysis to get an idea about how people feel about a particular restaurant. To identify the industry critics and especially work on their reviews to build a reputation worth praising.
